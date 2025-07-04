@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #e0f7fa, #80deea);
+  background: linear-gradient(135deg, #92f1ff, #00505a);
   min-height: 100vh;
   margin: 0;
   padding: 1em;
@@ -15,7 +15,7 @@ main {
 }
 
 form {
-  background-color: #ffffff;
+  background-color: whitesmoke;
   padding: 2em;
   border-radius: 1em;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
@@ -65,7 +65,7 @@ button:hover {
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: white;
+  background-color: whitesmoke;
   border-radius: 0.5em;
   overflow: hidden;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
@@ -78,17 +78,17 @@ th, td {
 }
 
 th {
-  background-color: #007BFF;
-  color: white;
+  background-color: whitesmoke;
+  color: rgb(0, 0, 0);
 }
 
 tr:hover {
-  background-color: #f1f1f1;
+  background-color: whitesmoke;
 }
 
 .action-btn {
   background-color: #28a745;
-  color: white;
+  color: whitesmoke;
   border: none;
   margin-right: 0.5em;
   padding: 0.5em 1em;
